@@ -58,8 +58,11 @@ https://github.com/bhavyasrisaikam-hub/To-do-App.git   ```
 
 <img width="951" height="560" alt="Screenshot 2026-06-15 175350" src="https://github.com/user-attachments/assets/5b106f97-89d1-4233-a18c-51dbe95a56ad" />
 
-## 🔮 Future Improvements
+## 🌐 Live Demo
 
+## 🌐 Live Demo
+
+[🚀 Try the App Here](https://bhavyasrisaikam-hub.github.io/To-do-App/)
 - Dark Mode
 - Task Priorities
 - Due Dates
