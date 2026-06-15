@@ -57,7 +57,7 @@ This project helped in understanding:
 
 ## 📸 Demo
 
-Add a screenshot of your application here.
+<img width="951" height="560" alt="Screenshot 2026-06-15 175350" src="https://github.com/user-attachments/assets/5b106f97-89d1-4233-a18c-51dbe95a56ad" />
 
 ## 🔮 Future Improvements
 
