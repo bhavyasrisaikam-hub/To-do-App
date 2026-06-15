@@ -61,6 +61,8 @@ https://github.com/bhavyasrisaikam-hub/To-do-App.git   ```
 ## 🌐 Live Demo
 
 [🚀 Try the App Here](https://bhavyasrisaikam-hub.github.io/To-do-App/)
+
+## Future Improvements
 - Dark Mode
 - Task Priorities
 - Due Dates
