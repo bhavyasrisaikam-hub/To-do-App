@@ -60,8 +60,6 @@ https://github.com/bhavyasrisaikam-hub/To-do-App.git   ```
 
 ## 🌐 Live Demo
 
-## 🌐 Live Demo
-
 [🚀 Try the App Here](https://bhavyasrisaikam-hub.github.io/To-do-App/)
 - Dark Mode
 - Task Priorities
