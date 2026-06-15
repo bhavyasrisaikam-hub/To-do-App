@@ -1,7 +1,6 @@
 # 📝 To-Do List App
 
-A simple and interactive To-Do List web application built using HTML, CSS, and JavaScript.
-
+A responsive To-Do List web application built with HTML, CSS, and JavaScript featuring CRUD operations, task filtering and localStorage persistence.
 ## 🚀 Features
 
 - Add new tasks
@@ -48,8 +47,8 @@ This project helped in understanding:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
-   ```
+   git clone
+https://github.com/bhavyasrisaikam-hub/To-do-App.git   ```
 
 2. Open the project folder.
 
